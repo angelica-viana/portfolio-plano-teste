@@ -1,2 +1,11 @@
-# portfolio-analise
-Este projeto tem como finalidade mostrar o meu trabalho de análise de requisitos e plano de teste
+# Portfólio
+Este projeto tem como finalidade mostrar o meu trabalho de plano de teste, abertura e gerenciamento de bugs.
+
+Neste repositório você irá encontrar o Plano de teste e gerenciamento de bugs de um site.
+
+## Portfólio Plano de Teste e gerenciamento de bugs
+
+- Site utilizado para elaboração do Plano [Saucedemo] (https://www.saucedemo.com)
+
+![Home Site Saucedemo](img/site_saucedemo.PNG)
+
